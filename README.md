@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ketan0095
 - 👀 I’m interested in Web3 development using python and brownie framework.
-- 🌱 I’m currently learning Blockchain development.
+- 🌱 I’m currently learning & implementing Blockchain development.
 
 
 <!---
