@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ketan0095
-- 👀 I’m interested in Web3 development using python and brownie framework.
-- 🌱 I’m currently learning & implementing Blockchain development.
-
-
-<!---
-ketan0095/ketan0095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ketan0095  
+- 🤖 Confident AI Developer with 4+ years of experience in computer vision, NLP, and machine learning.  
+- 🧠 GenAI and Conversational AI expert with a strong focus on building scalable, production-grade solutions.  
+- 🚀 Passionate about automating workflows and developing intelligent applications using modern AI/LLM stacks.  
+- 🛠️ Skilled in Python, FastAPI, LangChain, Whisper, and cloud-based deployments.  
+- 🌱 Currently exploring advanced prompt engineering, multi-modal AI, and real-time GenAI pipelines.  
