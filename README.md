@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ketan0095  
+# 👋 Hi, I’m Ketan Shetye 
 
 - 🤖 Full Stack AI Engineer & Voice AI Product Builder with 4+ years of experience in computer vision, NLP, GenAI, and real-time conversational AI.  
 - 🧠 GenAI & Conversational AI expert specializing in **scalable, production-grade voice and chat-based agents**.  
