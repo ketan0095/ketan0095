@@ -13,6 +13,14 @@ I create scalable, real-time AI solutions in **GenAI**, **Conversational AI**, a
 
 ---
 
+## 🏆 Awards & Achievements
+- 🥈 **2nd Place – Global AI Hackathon (Australia)** – Built real-world AI agent solutions, ranking 2nd out of 50+ teams.  
+  🔗 [LinkedIn Post](https://www.linkedin.com/posts/ketan-shetye-769892133_openai-operator-deepseek-activity-7291821140526718976-uv_S)  
+- 🏅 **Best Innovative AI Product – E-Summit ‘25** – Led development of [Machine Agent](https://machineagents.ai/) which won at Central India’s Startup Expo.  
+  🔗 [LinkedIn Post](https://www.linkedin.com/posts/ketan-shetye-769892133_askgaloremachineagents-activity-7297577366250250241-y1o2)  
+
+---
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
