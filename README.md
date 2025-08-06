@@ -40,10 +40,10 @@ I create scalable, real-time AI solutions in **GenAI**, **Conversational AI**, a
 ### **[Sophiie.ai](https://sophiie.ai/)**
 Real-time Voice AI agent platform integrating **LiveKit**, **LLMs**, **STT/TTS pipelines**, and workflow automation.
 
-### **[Machine Agent](https://machineagents.ai/)**
+### **[MachineAgentS](https://machineagents.ai/)**
 Award-winning GenAI conversational platform combining **voice synthesis**, **LLMs**, and **3D avatars** for human-like interactions.
 
-### **[Nak3d](https://www.nak3d.xyz/)**
+### **[NAK3D](https://www.nak3d.xyz/)**
 NeRF-powered AI pipeline for multi-view garment reconstruction and **virtual try-ons** in fashion e-commerce.
 
 ### **[Terrablu.life](https://terrablu.life/)**
