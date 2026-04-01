@@ -67,7 +67,7 @@ class KetanShetye:
 |:---|---:|
 | Years Experience | **4+** |
 | Products Shipped | **5+** |
-| Hackathon Wins | **2** |
+| Hackathon Wins | **1** |
 | Contributions/yr | **585+** |
 
 </td>
