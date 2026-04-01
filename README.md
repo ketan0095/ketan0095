@@ -92,7 +92,7 @@ class KetanShetye:
 </td>
 <td align="center" width="50%">
 
-### :sports_medal: Best Innovative AI Product — E-Summit '25
+### Best Innovative AI Product — E-Summit '25
 **Central India's Startup Expo** — Led development of Machine Agent
 
 [![Proof](https://img.shields.io/badge/LinkedIn_Post-0f172a?style=flat-square&logo=linkedin&logoColor=06b6d4)](https://www.linkedin.com/posts/ketan-shetye-769892133_askgaloremachineagents-activity-7297577366250250241-y1o2)
