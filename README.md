@@ -253,7 +253,7 @@ CI/CD Pipelines         ████████████████░░�
 
 <a href="https://github.com/ketan0095"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=06b6d4" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/ketan-shetye-769892133"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=06b6d4" alt="LinkedIn"/></a>
-<a href="https://machineagents.ai"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=06b6d4" alt="Portfolio"/></a>
+<a href="https://ketanai.dev/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=06b6d4" alt="Portfolio"/></a>
 <a href="https://sophiie.ai"><img src="https://img.shields.io/badge/Sophiie.ai-0f172a?style=for-the-badge&logo=webrtc&logoColor=06b6d4" alt="Sophiie"/></a>
 <a href="mailto:ketan@sophiie.ai"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=06b6d4" alt="Email"/></a>
 
