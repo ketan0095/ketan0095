@@ -30,7 +30,7 @@ class KetanShetye:
         self.location  = "Australia"
         self.role      = "Full Stack AI Engineer"
         self.company   = "Sophiie.ai"
-        self.experience = "4+ years"
+        self.experience = "5+ years"
 
     def skills(self):
         return {
